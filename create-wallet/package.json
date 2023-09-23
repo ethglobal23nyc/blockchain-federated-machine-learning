@@ -1,0 +1,14 @@
+{
+  "name": "create-wallet",
+  "version": "1.0.0",
+  "main": "create_wallet.js",
+  "license": "MIT",
+  "type": "module",
+
+  "scripts": {
+    "start": "node create_wallet.js"
+  },
+  "dependencies": {
+    "ethers": "^6.7.1"
+  }
+}
