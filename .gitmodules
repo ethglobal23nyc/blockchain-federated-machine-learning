@@ -1,0 +1,6 @@
+[submodule "safe-core-protocol-demo"]
+	path = safe-core-protocol-demo
+	url = git@github.com:ethglobal23nyc/safe-core-protocol-demo.git
+[submodule "fullstackapp"]
+	path = fullstackapp
+	url = git@github.com:ethglobal23nyc/fullstackapp.git
