@@ -7,3 +7,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:ethglobal23nyc/frontend.git
+[submodule "cartesi-rollup-examples"]
+	path = cartesi-rollup-examples
+	url = git@github.com:ethglobal23nyc/cartesi-rollup-examples.git
