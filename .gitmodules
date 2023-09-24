@@ -4,3 +4,6 @@
 [submodule "fullstackapp"]
 	path = fullstackapp
 	url = git@github.com:ethglobal23nyc/fullstackapp.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ethglobal23nyc/frontend.git
